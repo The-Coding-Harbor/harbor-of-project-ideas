@@ -88,7 +88,7 @@ Build a simple web app that fetches and displays real-time weather data for a gi
 ---
 
 ## ⚓ Code of Conduct
-By contributing, you agree to abide by our [Code of Conduct](./CODE_OF_CONDUCT.md) (coming soon).
+By contributing, you agree to abide by our [Code of Conduct](./CODE_OF_CONDUCT.md).
 Let's keep The Coding Harbor a welcoming and respectful community for everyone.
 
 Happy sailing, and thank you for helping us fill these waters with amazing ideas! 🚢✨
