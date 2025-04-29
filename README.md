@@ -50,6 +50,12 @@ This Harbor is a place where you:
 5. **Share Your Journey**  
    If you build something based on an idea here, feel free to share it! We'd love to celebrate with you.
 
+6. **Report Bugs or Suggest Features**
+   If you encounter a bug or want to suggest a new feature, you can easily create an issue using our templates:
+   - Choose **"🐛 Bug Report"** for reporting problems.
+   - Choose **"🚀 Feature Request"** to suggest a new idea or enhancement.
+   Please use the templates to ensure clarity and help us address your input quickly!
+
 ---
 
 ## 🧡 How to Contribute

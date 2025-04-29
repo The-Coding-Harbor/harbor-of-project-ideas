@@ -54,9 +54,15 @@ Please follow this simple structure when submitting a new idea:
 **Description:**
 Brief description of what the project is about.
 
+**Problem Context:**  
+Quick description about the context of the project.
+
 **Stretch Goals (Optional):**
 - Add new features beyond the basic idea.
 - Challenge yourself by integrating APIs, optimizing performance, etc.
+
+**Useful Resources:**
+Links to useful resources.
 
 **Tags:** #web #mobile #game #maritime #open-source #other
 ```
@@ -70,9 +76,16 @@ Example:
 **Description:**
 Build a simple web app that fetches and displays real-time weather data for a given sailing location.
 
+**Problem Context:**  
+For sailors and explorers, knowing the weather conditions at sea is essential for safety and planning.
+Having access to real-time maritime weather data — including wind, waves, and forecasts — can make a huge difference when navigating coastal or open waters.
+
 **Stretch Goals (Optional):**
 - Add a 5-day forecast view.
 - Display weather alerts for nearby storms.
+
+**Useful Resources:**
+- [Marine Weather API](https://open-meteo.com/en/docs/marine-weather-api)
 
 **Tags:** #web #api #weather
 ```
